@@ -1,0 +1,2 @@
+module load visit
+module load mpi/
